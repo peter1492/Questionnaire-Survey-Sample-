@@ -1,0 +1,165 @@
+com/trivia/kotlin/appscriptask/view_models/HistoryViewModel_HiltModules.java
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_HiltModules
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_HiltModules$BindsModule
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_HiltModules$KeyModule
+com/trivia/kotlin/appscriptask/view_models/HistoryViewModel_Factory.java
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_Factory
+com/trivia/kotlin/appscriptask/view_models/GameOverViewModel_HiltModules.java
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_HiltModules
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_HiltModules$BindsModule
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_HiltModules$KeyModule
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/trivia/kotlin/appscriptask/BuildConfig.java
+ com.trivia.kotlin.appscriptask.BuildConfig
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/trivia/kotlin/appscriptask/repository/GameOverRepository_Factory.java
+ com.trivia.kotlin.appscriptask.repository.GameOverRepository_Factory
+com/trivia/kotlin/appscriptask/databinding/FragmentGameOverBinding.java
+ com.trivia.kotlin.appscriptask.databinding.FragmentGameOverBinding
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_ui_screens_FragmentGameOver_GeneratedInjector.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_ui_screens_FragmentGameOver_GeneratedInjector
+com/trivia/kotlin/appscriptask/view_models/GameOverViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_HiltModules_KeyModule_ProvideFactory
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/trivia/kotlin/appscriptask/Hilt_MyApp.java
+ com.trivia.kotlin.appscriptask.Hilt_MyApp
+ com.trivia.kotlin.appscriptask.Hilt_MyApp$1
+com/trivia/kotlin/appscriptask/databinding/FragmentGameOverBindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.FragmentGameOverBindingImpl
+com/trivia/kotlin/appscriptask/DaggerMyApp_HiltComponents_SingletonC.java
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$1
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCI
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCI
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl$SwitchingProvider
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$Builder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.trivia.kotlin.appscriptask.DaggerMyApp_HiltComponents_SingletonC$ServiceCImpl
+com/trivia/kotlin/appscriptask/database/SummaryDatabase_Impl.java
+ com.trivia.kotlin.appscriptask.database.SummaryDatabase_Impl
+ com.trivia.kotlin.appscriptask.database.SummaryDatabase_Impl$1
+com/trivia/kotlin/appscriptask/databinding/Fragment2BindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment2BindingImpl
+com/trivia/kotlin/appscriptask/repository/HistoryRepository_Factory.java
+ com.trivia.kotlin.appscriptask.repository.HistoryRepository_Factory
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_ui_screens_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_ui_screens_MainActivity_GeneratedInjector
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_view_models_GameOverViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_view_models_GameOverViewModel_HiltModules_KeyModule
+com/trivia/kotlin/appscriptask/ui/screens/Hilt_MainActivity.java
+ com.trivia.kotlin.appscriptask.ui.screens.Hilt_MainActivity
+ com.trivia.kotlin.appscriptask.ui.screens.Hilt_MainActivity$1
+com/trivia/kotlin/appscriptask/BR.java
+ com.trivia.kotlin.appscriptask.BR
+com/trivia/kotlin/appscriptask/ui/screens/FragmentSplash_GeneratedInjector.java
+ com.trivia.kotlin.appscriptask.ui.screens.FragmentSplash_GeneratedInjector
+com/trivia/kotlin/appscriptask/databinding/Fragment1BindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment1BindingImpl
+com/trivia/kotlin/appscriptask/databinding/FragmentHistoryBinding.java
+ com.trivia.kotlin.appscriptask.databinding.FragmentHistoryBinding
+com/trivia/kotlin/appscriptask/view_models/GameOverViewModel_Factory.java
+ com.trivia.kotlin.appscriptask.view_models.GameOverViewModel_Factory
+com/trivia/kotlin/appscriptask/DataBindingInfo.java
+ com.trivia.kotlin.appscriptask.DataBindingInfo
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_MyApp_GeneratedInjector.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_MyApp_GeneratedInjector
+com/trivia/kotlin/appscriptask/databinding/Fragment3Binding.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment3Binding
+com/trivia/kotlin/appscriptask/databinding/Fragment3BindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment3BindingImpl
+com/trivia/kotlin/appscriptask/ui/screens/Hilt_FragmentSplash.java
+ com.trivia.kotlin.appscriptask.ui.screens.Hilt_FragmentSplash
+dagger/hilt/internal/aggregatedroot/codegen/_com_trivia_kotlin_appscriptask_MyApp.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_trivia_kotlin_appscriptask_MyApp
+com/trivia/kotlin/appscriptask/ui/screens/FragmentHistory_GeneratedInjector.java
+ com.trivia.kotlin.appscriptask.ui.screens.FragmentHistory_GeneratedInjector
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_ui_screens_FragmentSplash_GeneratedInjector.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_ui_screens_FragmentSplash_GeneratedInjector
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_view_models_HistoryViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_view_models_HistoryViewModel_HiltModules_BindsModule
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_ui_screens_FragmentHistory_GeneratedInjector.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_ui_screens_FragmentHistory_GeneratedInjector
+com/trivia/kotlin/appscriptask/ui/screens/FragmentGameOver_GeneratedInjector.java
+ com.trivia.kotlin.appscriptask.ui.screens.FragmentGameOver_GeneratedInjector
+com/trivia/kotlin/appscriptask/ui/screens/Hilt_FragmentGameOver.java
+ com.trivia.kotlin.appscriptask.ui.screens.Hilt_FragmentGameOver
+com/trivia/kotlin/appscriptask/DataBinderMapperImpl.java
+ com.trivia.kotlin.appscriptask.DataBinderMapperImpl
+ com.trivia.kotlin.appscriptask.DataBinderMapperImpl$InnerBrLookup
+ com.trivia.kotlin.appscriptask.DataBinderMapperImpl$InnerLayoutIdLookup
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_view_models_GameOverViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_view_models_GameOverViewModel_HiltModules_BindsModule
+com/trivia/kotlin/appscriptask/MyApp_HiltComponents.java
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityRetainedC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityRetainedC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$FragmentC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$FragmentC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$FragmentCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ServiceC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ServiceC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ServiceCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$SingletonC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewModelC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewModelC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewModelCBuilderModule
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewWithFragmentC
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewWithFragmentC$Builder
+ com.trivia.kotlin.appscriptask.MyApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/trivia/kotlin/appscriptask/database/SummaryDao_Impl.java
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl$1
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl$2
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl$3
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl$4
+ com.trivia.kotlin.appscriptask.database.SummaryDao_Impl$5
+com/trivia/kotlin/appscriptask/ui/screens/Hilt_FragmentHistory.java
+ com.trivia.kotlin.appscriptask.ui.screens.Hilt_FragmentHistory
+com/trivia/kotlin/appscriptask/databinding/FragmentHistoryBindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.FragmentHistoryBindingImpl
+com/trivia/kotlin/appscriptask/databinding/HistoryItemBinding.java
+ com.trivia.kotlin.appscriptask.databinding.HistoryItemBinding
+com/trivia/kotlin/appscriptask/databinding/HistoryItemBindingImpl.java
+ com.trivia.kotlin.appscriptask.databinding.HistoryItemBindingImpl
+com/trivia/kotlin/appscriptask/view_models/HistoryViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_HiltModules_KeyModule_ProvideFactory
+ com.trivia.kotlin.appscriptask.view_models.HistoryViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/trivia/kotlin/appscriptask/MyApp_GeneratedInjector.java
+ com.trivia.kotlin.appscriptask.MyApp_GeneratedInjector
+com/trivia/kotlin/appscriptask/ui/screens/MainActivity_GeneratedInjector.java
+ com.trivia.kotlin.appscriptask.ui.screens.MainActivity_GeneratedInjector
+com/trivia/kotlin/appscriptask/databinding/Fragment2Binding.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment2Binding
+dagger/hilt/internal/processedrootsentinel/codegen/_com_trivia_kotlin_appscriptask_MyApp.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_trivia_kotlin_appscriptask_MyApp
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_di_AppModule.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_di_AppModule
+hilt_aggregated_deps/_com_trivia_kotlin_appscriptask_view_models_HistoryViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_trivia_kotlin_appscriptask_view_models_HistoryViewModel_HiltModules_KeyModule
+com/trivia/kotlin/appscriptask/di/AppModule_ProvideSummaryDaoFactory.java
+ com.trivia.kotlin.appscriptask.di.AppModule_ProvideSummaryDaoFactory
+com/trivia/kotlin/appscriptask/databinding/Fragment1Binding.java
+ com.trivia.kotlin.appscriptask.databinding.Fragment1Binding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/trivia/kotlin/appscriptask/di/AppModule_ProvideDatabaseFactory.java
+ com.trivia.kotlin.appscriptask.di.AppModule_ProvideDatabaseFactory

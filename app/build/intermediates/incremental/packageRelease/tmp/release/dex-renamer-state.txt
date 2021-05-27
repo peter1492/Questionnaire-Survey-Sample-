@@ -1,0 +1,4 @@
+#Thu May 27 13:43:08 IST 2021
+base.0=/Users/petrose/Downloads/appscrip-master/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
