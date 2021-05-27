@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_history_item.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/history_item.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_game_over.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_1.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_1.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_2.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_2.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_3.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_3.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_splash.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/layout_fragment_history.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

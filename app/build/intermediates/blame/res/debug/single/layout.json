@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_3.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_3.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_1.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_1.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_history.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_over.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_2.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/fragment_2.xml"
+    },
+    {
+        "merged": "/Users/petrose/Downloads/appscrip-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/history_item.xml",
+        "source": "/Users/petrose/Downloads/appscrip-master/app/src/main/res/layout/history_item.xml"
+    }
+]
